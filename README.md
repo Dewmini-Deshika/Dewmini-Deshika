@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Dewmini deshika
+## Hi there 👋, I'm Dewmini Deshika
 
 <!--
 **Dewmini-Deshika/Dewmini-Deshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
